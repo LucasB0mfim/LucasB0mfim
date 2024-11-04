@@ -44,6 +44,8 @@ Me chamo Lucas. Sou um desenvolvedor em transição de carreira, buscando uma op
 ![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-442320?style=for-the-badge&logo=jsf&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### Estatísticas do GitHub
 
