@@ -43,6 +43,7 @@ Me chamo Lucas. Sou um desenvolvedor em transição de carreira, buscando uma op
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-442320?style=for-the-badge&logo=jsf&logoColor=white)
+![SELENIUM](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Estatísticas do GitHub
 
