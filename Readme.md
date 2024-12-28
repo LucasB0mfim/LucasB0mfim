@@ -21,6 +21,7 @@ Me chamo Lucas. Sou um desenvolvedor em transição de carreira, buscando uma op
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![LESS](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white)
 ![GRUNT](https://img.shields.io/badge/Grunt-fba919?style=for-the-badge&logo=grunt&logoColor=white)
@@ -29,7 +30,7 @@ Me chamo Lucas. Sou um desenvolvedor em transição de carreira, buscando uma op
 ![CYPRESS](https://img.shields.io/badge/Cypress-69d3a7?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### HABILIDADES BACKEND
-
+![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=php&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -38,7 +39,8 @@ Me chamo Lucas. Sou um desenvolvedor em transição de carreira, buscando uma op
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
-![AZURE](https://img.shields.io/badge/Azure-0089d6?style=for-the-badge&logo=azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![AZURE](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
 ![APIREST](https://img.shields.io/badge/APIRest-259eca?style=for-the-badge&logo=api&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
